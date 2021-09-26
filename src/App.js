@@ -1,9 +1,8 @@
-import logo from "./logo.svg"
-import "./App.css"
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
-  const a = 12
-  const b = 1000
+  //const ab = 1;
   return (
     <div className="App">
       <header className="App-header">
@@ -21,7 +20,7 @@ function App() {
         </a>
       </header>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
